@@ -4,7 +4,6 @@
 
 TaskHandle_t xHandle1,xHandle2,xHandle3;
 TimerHandle_t timer_handler;
-int count=0;
 
 void Task1(void *pvParameteres)
 {
